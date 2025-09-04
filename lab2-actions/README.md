@@ -23,3 +23,4 @@ See `.github/workflows/ci.yml` at repo root. It:
 
 ## Notes
 - No external deps; uses Node's built-in test runner for reliability.
+- trigger CI
