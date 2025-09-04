@@ -1,3 +1,9 @@
+# Project Overview
+## Setup
+## How to run tests
+## CI with GitHub Actions
+## Limitations and future improvements
+
 # Lab 2 — CI with GitHub Actions (Node.js)
 
 This lab provides a **matrix CI** across Node 16/18/20 with cache enabled.
