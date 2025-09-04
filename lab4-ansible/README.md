@@ -5,7 +5,7 @@
 ansible --version
 
 ansible-playbook -i lab4-ansible/inventory lab4-ansible/playbooks/hello.yml
-
+- trigger Ansible CI run
 # optional dry-run:
 ansible-playbook -i lab4-ansible/inventory lab4-ansible/playbooks/nginx.yml --check
 ```
