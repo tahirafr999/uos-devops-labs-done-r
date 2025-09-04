@@ -6,3 +6,4 @@
   - `git push -u origin ...`
 - What worked / blockers:
 - Decisions and rationale:
+- first notes for lab 1
